@@ -1,0 +1,4 @@
+repository "G_soft/G_soft@14569351210310@cloud"
+  path "/"
+    br "/main"
+    co "/main"
